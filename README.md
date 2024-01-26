@@ -1,7 +1,8 @@
 - 👋 Hello Folks!
-- 💞 I’m interested in UI Designing
-- 🌱 I’m currently mastering Web Development
-- 📫 How to reach me ranjith.self@gmail.com
+- 💞 I love Programming
+- 🎨 I also design UI/UX(Figma)
+- 💻 I’m have hands on experience in React, Angular, Node.js, Android Studio, Flutter, Jave(Spring boot) and Python(Fastapi)
+- 📫 How to reach me - ranjith.self@gmail.com
 
-With Love,
-@ranjith💞
+Thanks,
+Ranjith
